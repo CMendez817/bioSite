@@ -50,12 +50,19 @@ nav a:hover {
 main {
     padding: 20px;
 }
+.image-container {
+  text-align: center;
+}
+.image-container img {
+  margin: 10px; /* optional spacing between images */
+}
+
 
 footer {
     background-color: #FF634D;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 8px;
     position: fixed;
     bottom: 0;
     width: 100%;
